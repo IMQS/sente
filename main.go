@@ -2,6 +2,8 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
+// original source at : https://code.google.com/p/winsvc/source/browse/#hg%2Fexample
+
 // Example service program that answers hello on localhost/hello call. It demonstrates how to
 // create a service and install / remove it on a computer.
 // It also shows how to stop / start / pause / continue any service,
